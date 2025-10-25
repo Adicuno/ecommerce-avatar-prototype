@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Casual T-Shirt",
+    "type": "Topwear",
+    "size": "M",
+    "modelPath": "/models/clothes/tshirt.glb"
+  },
+  {
+    "id": 2,
+    "name": "Denim Jeans",
+    "type": "Bottomwear",
+    "size": "M",
+    "modelPath": "/models/clothes/jeans.glb"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "height": 175,
+    "weight": 70,
+    "bodyType": "Athletic"
+  }
+]
